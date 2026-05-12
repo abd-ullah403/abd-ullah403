@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:00c2ff&height=120&section=header&text=&animation=fadeIn" />
 
 ```
-  ██████████    ABDULLAH
+██████████    ABDULLAH
   ██      ██    cs student · builder · explorer
   ██████████    ai · blockchain · open source
 ```
